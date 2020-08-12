@@ -1,2 +1,2 @@
-# simple-cms
-Dead Simple Content Management System 
+# Dead Simple Content Management System 
+
